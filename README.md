@@ -1,4 +1,4 @@
-# Ağırlık Takip Uygulaması
+# Sporcu Takip Uygulaması
 # Projede Ionic 5, Angular, Capacitor ve Firebase kullanılmıştır.
 
 
